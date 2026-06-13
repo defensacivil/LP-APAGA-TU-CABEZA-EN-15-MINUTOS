@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Apaga tu cabeza en 15 minutos",
+  "description": "Página de ventas de alta conversión para el eBook Apaga tu cabeza en 15 minutos",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
